@@ -1,7 +1,7 @@
 ---
 name: Nomination
 about: Nominate a maintainer/yourself
-title: ''
+title: 'Nomination'
 labels: 'nomination'
 assignees: ''
 
