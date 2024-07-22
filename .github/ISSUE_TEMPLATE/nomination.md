@@ -7,11 +7,10 @@ assignees: ''
 
 ---
 
-<!-- Feel free to structure this to your liking. Take the template below as inspiration.  -->
+<!-- Feel free to customize this template to your liking. Use the structure below as inspiration. -->
 
-I want to nominate @githubUser / myself....
+I would like to nominate @githubUser / myself...
 
-I know @githubUser from their work on ... / In the past I worked
-on/reviewed ... with these people ... in the Nix community.
+I know @githubUser through their work on ... / In the past, I have worked on/reviewed ... with these individuals .... in the Nix community.
 
-The person should get commit access because of ... / I would like commit access to ...
+This person should be granted commit access because of ... / I would like commit access to ...
